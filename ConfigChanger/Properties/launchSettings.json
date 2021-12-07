@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ConfigChanger": {
+      "commandName": "Project",
+      "commandLineArgs": "-r -p C:\\Users\\mfara\\source\\Workspaces\\Hahn\\mes\\dev\\src -x config;json"
+    }
+  }
+}
